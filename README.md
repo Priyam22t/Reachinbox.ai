@@ -1,6 +1,6 @@
 # 📧 ReachInbox – Full-Stack Email Scheduler
 
-A production-grade email scheduling system inspired by ReachInbox’s internal infrastructure.  
+A production-grade email scheduling system inspired by ReachInbox’s internal infrastructure 
 This project demonstrates reliable delayed email delivery, persistence across restarts, rate limiting, worker concurrency, and a clean React dashboard with Google OAuth authentication.
 
 ---
